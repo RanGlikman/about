@@ -1,2 +1,2 @@
 # My Personal Website
-My first personal website.
+My personal website, created as the first project of Dr. Angela Yu's "Complete 2022 Web Development Bootcamp".
